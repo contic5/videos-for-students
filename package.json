@@ -1,0 +1,18 @@
+{
+  "name": "clean_videos_for_students",
+  "private": true,
+  "version": "0.0.0",
+  "homepage": "https://contic5.github.io/videos-for-students",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "^6.3.5"
+  }
+}
