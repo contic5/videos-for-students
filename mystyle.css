@@ -1,0 +1,34 @@
+.big
+{
+    font-size:20px;
+}
+iframe
+{
+    margin: 20px 0px;
+}
+main
+{
+    background-color: azure;
+    width:800px;
+    margin:auto;
+    padding:10px;
+    min-height: 100vh;
+}
+body
+{
+    background-color: darkgray;
+}
+table,td,th
+{
+    padding: 10px;
+    background-color: aquamarine;
+    border:black solid 4px;
+}
+table
+{
+    border-collapse: collapse;
+}
+td,th
+{
+    text-align: center;
+}
